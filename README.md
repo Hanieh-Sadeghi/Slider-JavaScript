@@ -12,3 +12,8 @@ If you're interested in learning how to create an image slider using HTML, CSS, 
 <h3>Project Guide</h3>
 
 <h4>Description</h4>
+
+<p>
+This project creates a simple image slider using HTML, CSS, and JavaScript. The slider allows you to automatically cycle through images and also navigate using "Previous" and "Next" buttons.
+</p>
+
