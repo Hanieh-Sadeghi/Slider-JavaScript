@@ -6,4 +6,9 @@ Tonight, I wasn't feeling well, so I decided to keep myself busy by writing some
 
 <p>
 If you're interested in learning how to create an image slider using HTML, CSS, and JavaScript, my code will
- guide you through the process step by step. This is a great way to enhance your coding skills. I also recently created an image slider using Swiper.js, which I hope you find useful as well.</p>
+ guide you through the process step by step. This is a great way to enhance your coding skills. I also recently created an image slider using Swiper.js, which I hope you find useful as well.
+</p>
+
+<h3>Project Guide</h3>
+
+<h4>Description</h4>
